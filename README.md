@@ -46,8 +46,8 @@ Response Body :
     "updated_at": "2022-11-10T16:49:08.678913Z",
     "created_by": {
         "id": 5,
-        "username": "suresh",
-        "email": "suresh123@gmail.com"
+        "username": "Rahul",
+        "email": "Rahul123@gmail.com"
     }
 }
 ~~~
