@@ -3,7 +3,7 @@
 
 # Setup project
 ~~~
-git clone https://github.com/vikashkumarsaini9815/Rendom_project
+git clone https://github.com/vikashkumarsaini9815/assiduus
 ~~~
 # installation
 ~~~
